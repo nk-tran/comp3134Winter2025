@@ -1,0 +1,13 @@
+PS C:\Winter 2025\3134 - Cyber Security> ping 165.22.230.30
+
+Pinging 165.22.230.30 with 32 bytes of data:
+Reply from 165.22.230.30: bytes=32 time=27ms TTL=52
+Reply from 165.22.230.30: bytes=32 time=23ms TTL=52
+Reply from 165.22.230.30: bytes=32 time=21ms TTL=52
+
+Ping statistics for 165.22.230.30:
+    Packets: Sent = 3, Received = 3, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 21ms, Maximum = 27ms, Average = 23ms
+Control-C
+PS C:\Winter 2025\3134 - Cyber Security>

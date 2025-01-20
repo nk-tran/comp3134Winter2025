@@ -1,0 +1,260 @@
+Google:
+Domain Name: google.com
+Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2024-08-02T02:17:33+0000
+Creation Date: 1997-09-15T07:00:00+0000
+Registrar Registration Expiration Date: 2028-09-13T07:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851750
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Google LLC
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Admin Organization: Google LLC
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Tech Organization: Google LLC
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
+Name Server: ns4.google.com
+Name Server: ns2.google.com
+Name Server: ns1.google.com
+Name Server: ns3.google.com
+DNSSEC: unsigned
+
+Facebook:
+Domain Name: FACEBOOK.COM
+Registry Domain ID: 2320948_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.registrarsafe.com
+Registrar URL: https://www.registrarsafe.com
+Updated Date: 2024-04-24T19:06:13Z
+Creation Date: 1997-03-29T05:00:00Z
+Registrar Registration Expiration Date: 2033-03-30T04:00:00Z
+Registrar: RegistrarSafe, LLC
+Registrar IANA ID: 3237
+Registrar Abuse Contact Email: email@registrarsafe.com
+Registrar Abuse Contact Phone: +1.6503087004
+Domain Status: clientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://www.icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://www.icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://www.icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://www.icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Domain Admin
+Registrant Organization: Meta Platforms, Inc.
+Registrant Street: 1601 Willow Rd 
+Registrant City: Menlo Park
+Registrant State/Province: CA
+Registrant Postal Code: 94025
+Registrant Country: US
+Registrant Phone: +1.6505434800
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: email@fb.com
+Registry Admin ID: 
+Admin Name: Domain Admin
+Admin Organization: Meta Platforms, Inc.
+Admin Street: 1601 Willow Rd 
+Admin City: Menlo Park
+Admin State/Province: CA
+Admin Postal Code: 94025
+Admin Country: US
+Admin Phone: +1.6505434800
+Admin Phone Ext:
+Admin Fax: 
+Admin Fax Ext:
+Admin Email: email@fb.com
+Registry Tech ID: 
+Tech Name: Domain Admin
+Tech Organization: Meta Platforms, Inc.
+Tech Street: 1601 Willow Rd 
+Tech City: Menlo Park
+Tech State/Province: CA
+Tech Postal Code: 94025
+Tech Country: US
+Tech Phone: +1.6505434800
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: email@fb.com
+Name Server: D.NS.FACEBOOK.COM
+Name Server: A.NS.FACEBOOK.COM
+Name Server: B.NS.FACEBOOK.COM
+Name Server: C.NS.FACEBOOK.COM
+DNSSEC: unsigned
+
+Microsoft:
+Domain Name: microsoft.com
+Registry Domain ID: 2724960_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2023-08-18T16:15:54+0000
+Creation Date: 1991-05-02T04:00:00+0000
+Registrar Registration Expiration Date: 2025-05-03T00:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851750
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registry Registrant ID: 
+Registrant Name: Domain Administrator
+Registrant Organization: Microsoft Corporation
+Registrant Street: One Microsoft Way, 
+Registrant City: Redmond
+Registrant State/Province: WA
+Registrant Postal Code: 98052
+Registrant Country: US
+Registrant Phone: +1.4258828080
+Registrant Phone Ext: 
+Registrant Fax: +1.4259367329
+Registrant Fax Ext: 
+Registrant Email: email@domains.microsoft
+Registry Admin ID: 
+Admin Name: Domain Administrator
+Admin Organization: Microsoft Corporation
+Admin Street: One Microsoft Way, 
+Admin City: Redmond
+Admin State/Province: WA
+Admin Postal Code: 98052
+Admin Country: US
+Admin Phone: +1.4258828080
+Admin Phone Ext: 
+Admin Fax: +1.4259367329
+Admin Fax Ext: 
+Admin Email: email@domains.microsoft
+Registry Tech ID: 
+Tech Name: MSN Hostmaster
+Tech Organization: Microsoft Corporation
+Tech Street: One Microsoft Way, 
+Tech City: Redmond
+Tech State/Province: WA
+Tech Postal Code: 98052
+Tech Country: US
+Tech Phone: +1.4258828080
+Tech Phone Ext: 
+Tech Fax: +1.4259367329
+Tech Fax Ext: 
+Tech Email: email@microsoft.com
+Name Server: ns2-39.azure-dns.net
+Name Server: ns3-39.azure-dns.org
+Name Server: ns1-39.azure-dns.com
+Name Server: ns4-39.azure-dns.info
+DNSSEC: unsigned
+
+Youtube:
+Domain Name: youtube.com
+Registry Domain ID: 142504053_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2025-01-14T10:06:34+0000
+Creation Date: 2005-02-15T05:13:12+0000
+Registrar Registration Expiration Date: 2026-02-15T00:00:00+0000
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: email@markmonitor.com
+Registrar Abuse Contact Phone: +1.2086851750
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Google LLC
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Admin Organization: Google LLC
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Tech Organization: Google LLC
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Name Server: ns1.google.com
+Name Server: ns4.google.com
+Name Server: ns2.google.com
+Name Server: ns3.google.com
+DNSSEC: unsigned
+
+Instagram:
+Domain Name: INSTAGRAM.COM
+Registry Domain ID: 121748357_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.registrarsafe.com
+Registrar URL: https://www.registrarsafe.com
+Updated Date: 2024-06-26T19:15:25Z
+Creation Date: 2004-06-04T13:37:18Z
+Registrar Registration Expiration Date: 2033-06-04T13:37:18Z
+Registrar: RegistrarSafe, LLC
+Registrar IANA ID: 3237
+Registrar Abuse Contact Email: email@registrarsafe.com
+Registrar Abuse Contact Phone: +1.6503087004
+Domain Status: clientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://www.icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://www.icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://www.icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://www.icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Domain Admin
+Registrant Organization: Instagram LLC
+Registrant Street: 1601 Willow Rd 
+Registrant City: Menlo Park
+Registrant State/Province: CA
+Registrant Postal Code: 94025
+Registrant Country: US
+Registrant Phone: +1.6505434800
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: email@fb.com
+Registry Admin ID: 
+Admin Name: Domain Admin
+Admin Organization: Instagram LLC
+Admin Street: 1601 Willow Rd 
+Admin City: Menlo Park
+Admin State/Province: CA
+Admin Postal Code: 94025
+Admin Country: US
+Admin Phone: +1.6505434800
+Admin Phone Ext:
+Admin Fax: 
+Admin Fax Ext:
+Admin Email: email@fb.com
+Registry Tech ID: 
+Tech Name: Domain Admin
+Tech Organization: Instagram LLC
+Tech Street: 1601 Willow Rd 
+Tech City: Menlo Park
+Tech State/Province: CA
+Tech Postal Code: 94025
+Tech Country: US
+Tech Phone: +1.6505434800
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: email@fb.com
+Name Server: C.NS.INSTAGRAM.COM
+Name Server: B.NS.INSTAGRAM.COM
+Name Server: D.NS.INSTAGRAM.COM
+Name Server: A.NS.INSTAGRAM.COM
+DNSSEC: unsigned
