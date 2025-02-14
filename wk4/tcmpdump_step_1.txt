@@ -1,0 +1,28 @@
+root@comp3134-Winter2025:~# tcpdump -i eth0
+tcpdump: verbose output suppressed, use -v[v]... for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+01:42:57.778219 IP comp3134-Winter2025.ssh > 162.243.188.66.26411: Flags [P.], seq 2813181217:2813181345, ack 479424078, win 501, options [nop,nop,TS val 1687732045 ecr 4008405149], length 128
+01:42:57.778307 IP comp3134-Winter2025.ssh > 162.243.188.66.26411: Flags [P.], seq 128:272, ack 1, win 501, options [nop,nop,TS val 1687732045 ecr 4008405149], length 144
+01:42:57.778345 IP comp3134-Winter2025.ssh > 162.243.188.66.26411: Flags [P.], seq 272:352, ack 1, win 501, options [nop,nop,TS val 1687732045 ecr 4008405149], length 80
+01:42:57.778431 IP comp3134-Winter2025.ssh > 162.243.188.66.26411: Flags [P.], seq 352:432, ack 1, win 501, options [nop,nop,TS val 1687732046 ecr 4008405149], length 80
+01:42:57.778470 IP comp3134-Winter2025.ssh > 162.243.188.66.26411: Flags [P.], seq 432:496, ack 1, win 501, options [nop,nop,TS val 1687732046 ecr 4008405149], length 64
+01:42:57.787391 IP 162.243.188.66.26411 > comp3134-Winter2025.ssh: Flags [.], ack 0, win 874, options [nop,nop,TS val 4008405165 ecr 1687732043], length 0
+01:42:57.789742 IP 162.243.188.66.26411 > comp3134-Winter2025.ssh: Flags [.], ack 128, win 896, options [nop,nop,TS val 4008405168 ecr 1687732045], length 0
+01:42:57.789742 IP 162.243.188.66.26411 > comp3134-Winter2025.ssh: Flags [.], ack 272, win 919, options [nop,nop,TS val 4008405168 ecr 1687732045], length 0
+01:42:57.789742 IP 162.243.188.66.26411 > comp3134-Winter2025.ssh: Flags [.], ack 352, win 919, options [nop,nop,TS val 4008405168 ecr 1687732045], length 0
+01:42:57.789742 IP 162.243.188.66.26411 > comp3134-Winter2025.ssh: Flags [.], ack 432, win 919, options [nop,nop,TS val 4008405168 ecr 1687732046], length 0
+01:42:57.789795 IP 162.243.188.66.26411 > comp3134-Winter2025.ssh: Flags [.], ack 496, win 919, options [nop,nop,TS val 4008405168 ecr 1687732046], length 0
+01:42:57.875604 IP comp3134-Winter2025.42153 > 67.207.67.3.domain: 43523+ [1au] PTR? 66.188.243.162.in-addr.arpa. (56)
+01:42:57.875772 IP comp3134-Winter2025.33958 > 67.207.67.3.domain: 43721+ [1au] PTR? 66.188.243.162.in-addr.arpa. (56)
+01:42:57.910642 IP 67.207.67.3.domain > comp3134-Winter2025.42153: 43523 NXDomain 0/1/1 (123)
+01:42:57.910874 IP 67.207.67.3.domain > comp3134-Winter2025.33958: 43721 NXDomain 0/1/1 (123)
+01:42:57.910969 IP comp3134-Winter2025.42153 > 67.207.67.3.domain: 43523+ PTR? 66.188.243.162.in-addr.arpa. (45)
+01:42:57.911019 IP comp3134-Winter2025.33958 > 67.207.67.3.domain: 43721+ PTR? 66.188.243.162.in-addr.arpa. (45)
+01:42:57.912511 IP 67.207.67.3.domain > comp3134-Winter2025.33958: 43721 NXDomain 0/1/0 (112)
+01:42:57.912538 IP 67.207.67.3.domain > comp3134-Winter2025.42153: 43523 NXDomain 0/1/0 (112)
+^C01:43:01.094467 IP comp3134-Winter2025.http > 84.205.225.76.https: Flags [S.], seq 2263201794, ack 1, win 64240, options [mss 1460,nop,nop,sackOK,nop,wscale 7], length 0
+
+20 packets captured
+207 packets received by filter
+151 packets dropped by kernel
+root@comp3134-Winter2025:~# 
